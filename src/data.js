@@ -426,7 +426,7 @@ export const data = [
     Writer:
       "Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos,  Gamora & Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)",
     Actors: "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
-    Plot: "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins",
+    Plot: "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
     Language: "English, Japanese, Xhosa, German",
     Country: "USA",
     Awards: "Nominated for 1 Oscar. Another 46 wins & 97 nominations.",
