@@ -239,6 +239,11 @@ button {
   padding: 10px 20px;
   box-sizing: border-box;
 }
+@media (max-width: 616px) {
+  .movie-card .plot {
+    font-size: 13px;
+  }
+}
 @media (max-width: 664px) {
   .search-container input {
     width: 70%;
